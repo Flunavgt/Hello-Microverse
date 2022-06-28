@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverese
+# Hello Microverse
 
 > Hello Microverse first code to be reviewed
 
